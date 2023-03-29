@@ -1,4 +1,7 @@
 ## Olá eu sou Lucas Fonseca, estudante de Engenharia de Software!
+Estudante de Engenharia de Software procurando uma oportunidade para aplicar e desenvolver habilidades adquiridas durante a graduação. Buscando um ambiente de trabalho dinâmico e inovador que permita o crescimento profissional e a aquisição de novas experiências.
+- 💼 estagiando na dynamos tecnologia e automação com estagiário em desenvolvimento full-stack
+- 💼 estou colaborando na https://github.com/softhouseundb
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
