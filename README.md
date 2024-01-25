@@ -1,15 +1,10 @@
 ## Olá eu sou Lucas Fonseca, estudante de Engenharia de Software!
-Estudante de Engenharia de Software procurando uma oportunidade para aplicar e desenvolver habilidades adquiridas durante a graduação. Buscando um ambiente de trabalho dinâmico e inovador que permita o crescimento profissional e a aquisição de novas experiências.
-- 💼 estagiando na dynamos tecnologia e automação com estagiário em desenvolvimento full-stack
+Olá, meu nome é Lucas, e sou estudante de Engenharia de Software com foco em me tornar um Desenvolvedor Back-end e Cientista de Dados.
 - 💼 estou colaborando na https://github.com/softhouseundb
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <!--<img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <!--<img align="right"  alt="Lucas-pic" height="150" style="border-radius:50px;" src="#">-->
